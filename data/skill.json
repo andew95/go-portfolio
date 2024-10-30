@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Golang",
+        "imageSrc": "skills/golang.png"
+    },
+    {
+        "title": "PostgreSQL",
+        "imageSrc": "skills/postgreSQL.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+    }
+]

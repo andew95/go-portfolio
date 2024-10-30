@@ -1,0 +1,46 @@
+[
+  {
+    "role": "Backend Developer",
+    "organisation": "Greenmoons",
+    "startDate": "Aug, 2023",
+    "endDate": "Aug, 2024",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  },
+  {
+    "role": "Golang Developer",
+    "organisation": "Nityo",
+    "startDate": "Jan, 2023",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  },
+  {
+    "role": "Programmer",
+    "organisation": "Blishtech",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "INET",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

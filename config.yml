@@ -1,0 +1,9 @@
+app:
+  saveUploadPath: "./public"
+  port: 8080
+
+postgreSQL:
+  baseUrl: "localhost"
+  username: "citizix_user"
+  password: "S3cret"
+  dbName: "portfolio_db"
